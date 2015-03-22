@@ -1,2 +1,4 @@
 # ParanoidMap
-Main repository for ParanoidMap application
+=======
+Параноидальный навигатор у Вас на ладони!
+>>>>>>> origin/master
